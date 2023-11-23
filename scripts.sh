@@ -5,6 +5,7 @@ aliases_to_append=(
     "alias pac='python3 -m venv venv && source venv/bin/activate'"
     "alias pa='source venv/bin/activate'"
     "alias dpa='docker ps -a'"
+    "alias pir='pip install -r requirements.txt'"
     # Add more aliases as needed
 )
 
